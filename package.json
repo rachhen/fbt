@@ -8,8 +8,35 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.2.3",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "@chakra-ui/icons": "^1.0.13",
+    "@chakra-ui/react": "^1.6.3",
+    "@choc-ui/logo": "^1.0.0",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@hookform/resolvers": "^2.5.1",
+    "axios": "^0.21.1",
+    "cloudinary": "^1.26.0",
+    "express-fileupload": "^1.2.1",
+    "framer-motion": "^4.1.17",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "next": "^11.0.0",
+    "next-connect": "^0.10.1",
+    "next-seo": "^4.25.1",
+    "react": "^17.0.2",
+    "react-datepicker": "^4.1.1",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.7.1",
+    "react-icons": "^4.2.0",
+    "react-query": "^3.17.0",
+    "streamifier": "^0.1.1",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@types/express-fileupload": "^1.1.6",
+    "@types/react": "^17.0.8",
+    "@types/react-datepicker": "^3.1.8",
+    "@types/streamifier": "^0.1.0",
+    "typescript": "^4.3.2"
   }
 }
